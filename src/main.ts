@@ -8,7 +8,7 @@ import { CartComponent } from './app/components/cart/cart.component';
   selector: 'app-root',
   template: `
     <header>
-      <h1>Patel Electronics</h1>
+      <h1>PatelElectronics</h1>
     </header>
     <main>
       <app-product-list></app-product-list>
